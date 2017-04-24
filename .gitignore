@@ -1,6 +1,4 @@
 *.o
 .flavor
 .objs
-squll_nodes.so
-assets.h
-cert
+
